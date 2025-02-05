@@ -54,15 +54,11 @@ Endpoint:
 ## Example Usage
 
 ```text
-curl https://hng-2025-s1.vercel.app/
+curl https://hng-2025-s2.vercel.app/
 ```
-
-## Backlinks
-
-[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
 ## Deployment
 
 The API has been deployed to a publicly accessible endpoint:
 
-https://hng-2025-s1.vercel.app/
+https://hng-2025-s2.vercel.app/
